@@ -201,6 +201,11 @@ Below is the transcribed summary from [Summary of LMS Database Objects.pdf](Summ
 11. **Upcoming Events**
     - Displays all future library events with their details and schedules
 
+## Team Members
+- **[nadaKhalid13](https://github.com/nadaKhalid13)**
+- **[Ahmed Hamdy](https://github.com/Ahmed-Hamdy)** *(Note: Assuming "Ahmed Hamdy" corresponds to a GitHub handle like "Ahmed-Hamdy"; adjust if different)*
+- **[alshimaa AboElqasem](https://github.com/alshimaa-AboElqasem)** *(Note: Assuming "alshimaa AboElqasem" corresponds to a handle like "alshimaa-AboElqasem"; adjust if different)*
+
 ## Setup Instructions
 - **Database**: SQL Server.
 - **Execution Order**: Run scripts in sequence:
