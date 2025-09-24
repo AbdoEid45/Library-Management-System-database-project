@@ -203,8 +203,8 @@ Below is the transcribed summary from [Summary of LMS Database Objects.pdf](Summ
 
 ## Team Members
 - **[nadaKhalid13](https://github.com/nadaKhalid13)**
-- **[Ahmed Hamdy](https://github.com/Ahmed-Hamdy)** *(Note: Assuming "Ahmed Hamdy" corresponds to a GitHub handle like "Ahmed-Hamdy"; adjust if different)*
-- **[alshimaa AboElqasem](https://github.com/alshimaa-AboElqasem)** *(Note: Assuming "alshimaa AboElqasem" corresponds to a handle like "alshimaa-AboElqasem"; adjust if different)*
+- **[Ahmed Hamdy](https://github.com/Ahmed-Hamdy)** 
+- **[alshimaa AboElqasem](https://github.com/alshimaa-AboElqasem)** 
 
 ## Setup Instructions
 - **Database**: SQL Server.
